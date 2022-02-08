@@ -1,0 +1,9 @@
+This Project is made for food services.
+ download the file from github page
+ to run the website at your local server instruction given below:
+ ///
+
+ first create "food" name table on your apache server.
+ import the sql table to the food table.
+ to use instamojo create your own instamojoid.
+ 
